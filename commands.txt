@@ -1,0 +1,8 @@
+Here is how to control me! :
+!currentmaps : Displays the current Splatoon 2 Gamemodes/Maps
+!nextmaps : Displays the upcoming Splatoon 2 Gamemodes/Maps (!nextnextmaps displays 2 map rotations from now, etc)
+!currentsr : Displays the current Splatoon 2 Salmon Run Map/Weapons
+!nextsr : Displays the next Splatoon 2 Salmon Run Map/Weapons
+!splatnetgear : Gets all of the current gear for sale on SplatNet
+!github : Posts a link to my github page
+If you want something added or fixed, Jetsurf#8514 on discord or post an issue on github!
