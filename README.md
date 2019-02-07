@@ -5,10 +5,6 @@ https://github.com/Jetsurf/jet-bot
 It has been cut down from that version to allow Discord servers easy access
 to get S2 Map/SR/Splatnet information right in their server!
 
-# NOTE
-This bot still has some hardcoded things in place, most have been
-resolved, but the !us/jp/eu role commands are not.
-
 ## Installation
 Self Hosted
 Requires https://github.com/Rapptz/discord.py discord python library to 
