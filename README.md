@@ -6,7 +6,7 @@ It has been cut down from that version to allow Discord servers easy access
 to get S2 Map/SR/Splatnet information right in their server!
 
 ## Installation
-#Self Hosted
+# Self Hosted
 Requires https://github.com/Rapptz/discord.py discord python library to 
 function.
 
@@ -15,7 +15,7 @@ https://discordapp.com/developers/applications/
 
 Run the bot.py script.
 
-#Easy Install
+# Easy Install
 Use the following link to login to discord and add the bot to your server!
 https://discordapp.com/oauth2/authorize?client_id=542882637883113492&permissions=2048&scope=bot
 
