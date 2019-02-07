@@ -188,7 +188,11 @@ async def on_ready():
 	print('Logged in as,', client.user.name, client.user.id)
 	print('------')
 	await client.change_presence(game=discord.Game(name="Use !help for directions!", type=0))
-	
+
+@client.event
+async def on_server_join(server):
+	print("I joined server: " + server.name)
+
 @client.event
 async def on_message(message):
 	if message.server == None:
@@ -218,6 +222,7 @@ async def on_message(message):
 		await srParser(message, 1)
 	
 #Setup
+sys.stdout = open('./discordbot.log', 'a')
 print('**********NEW SESSION**********')
 loadConfig()
 
