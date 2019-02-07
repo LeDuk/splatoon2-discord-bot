@@ -17,6 +17,7 @@ Run the bot.py script.
 
 ### Easy Install
 Use the following link to login to discord and add the bot to your server!
+
 https://discordapp.com/oauth2/authorize?client_id=542882637883113492&permissions=2048&scope=bot
 
 ## Configuration
